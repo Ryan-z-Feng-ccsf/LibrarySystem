@@ -1,0 +1,10 @@
+1   C++ language guide covering basics to advanced concepts.
+2   Modern C++ techniques, including move semantics and smart pointers.
+3   Best practices for writing maintainable, clean code.
+4   Common software design patterns explained with examples.
+5   How to refactor code to improve readability and maintainability.
+6   Classic C programming guide for procedural programming.
+7   Comprehensive introduction to algorithms and data structures.
+8   Beginner-friendly guide to Python programming.
+9   Java programming concepts with practical examples.
+10  Comprehensive AI concepts including search, logic, and learning.
